@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1">
     <title>Basketball Game</title>
@@ -11,7 +12,7 @@
     <script type="text/javascript" src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
     <style type="text/css">
         body {
-            margin-top: 60px;
+            margin-top: 0px;
         }
         canvas {
             margin: 0 auto;
@@ -19,8 +20,7 @@
         }
         span {
             display: block;
-            margin: 30px auto;
-            width: 500px;
+            margin: 0px auto;
             text-align: center;
         }
         h2 {
