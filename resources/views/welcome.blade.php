@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1">
     <title>Basketball Game</title>
     <script type="text/javascript" src="js/phaser.min.js"></script>
     <script type="text/javascript" src="js/key.min.js"></script>
