@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/api/csrf', 'GameController@apiGetCSRF');
+Route::post('/api/score', 'GameController@apiScore');
