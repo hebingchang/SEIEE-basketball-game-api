@@ -4,15 +4,15 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport"
-          content="width=device-width, initial-scale=1">
+          content="width=device-width">
     <title>Basketball Game</title>
     <script type="text/javascript" src="js/phaser.min.js"></script>
     <script type="text/javascript" src="js/key.min.js"></script>
     <script type="text/javascript" src="js/hash.min.js"></script>
     <script type="text/javascript" src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
     <style type="text/css">
-        body {
-            margin-top: 0px;
+        html, body {
+            margin: 0 auto;
         }
         canvas {
             margin: 0 auto;
