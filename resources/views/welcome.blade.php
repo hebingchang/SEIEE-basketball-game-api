@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="sharecontent" data-msg-img="/" data-msg-content="快来一起续球！" data-line-img="/" data-line-callBack="" />
     <meta name="viewport"
           content="width=device-width">
     <title>Basketball Game</title>
