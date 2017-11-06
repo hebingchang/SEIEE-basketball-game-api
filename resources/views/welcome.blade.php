@@ -29,6 +29,6 @@
     </style>
 </head>
 <body>
-<script type="text/javascript" src="js/game.min.js"></script>
+<script type="text/javascript" src="js/game.min.js?t={{ time() }}"></script>
 </body>
 </html>
