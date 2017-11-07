@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="sharecontent" data-msg-img="/" data-msg-content="快来一起续球！" data-line-img="/" data-line-callBack="" />
     <meta name="viewport"
           content="width=device-width">
+    <link rel="shortcut icon" href="/assets/images/ball.png" type="image/x-icon">
     <title>Basketball Game</title>
     <script type="text/javascript" src="js/phaser.min.js"></script>
     <script type="text/javascript" src="js/key.min.js"></script>
